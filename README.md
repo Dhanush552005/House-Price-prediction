@@ -36,7 +36,6 @@ cd House-Price-prediction
 pip install -r requirements.txt
 
 ---
-
 ## 📊 Model Evaluation
 
 The performance of different regression models was compared using **Mean Absolute Percentage Error (MAPE)**.
